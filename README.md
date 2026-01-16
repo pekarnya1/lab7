@@ -1,4 +1,5 @@
-блок-схема для задания 1<img width="750" height="600" alt="diagram (1)" src="https://github.com/user-attachments/assets/8c69ddd7-8ca0-457b-b469-179c66188a00" />
+блок-схема для задания 1 <img width="427" height="339" alt="image" src="https://github.com/user-attachments/assets/5dc12565-1ba2-4189-8693-adc52546e3d1" />
+
 
 
 # Домашнее задание к работе 7
